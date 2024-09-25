@@ -1,0 +1,52 @@
+{
+    "success": true,
+    "message": "success",
+    "code": 200,
+    "data": [
+        {
+            "id": "f7d9313e-97b5-4fb1-bab9-56fbbdeea88d",
+            "slug": "best-places-dive-indonesia",
+            "title": "7 Best Places to Dive in Indonesia: From Bali to Wakatobi",
+            "summary": "Indonesia offers a variety of amazing diving sites and beautiful underwater views, including Bali, Wakatobi, Raja Ampat, Komodo, Bunaken, Flores, and Menjangan Island, which are considered the top seven places for diving in Indonesia.",
+            "featured_image": "https://images.unsplash.com/photo-1494005612480-90f50fd9376f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MjkwNzV8MHwxfHNlYXJjaHwxfHxkaXZpbmclMjBpbmRvbmVzaWF8ZW58MHx8fHwxNjgzMjYwMTYx&ixlib=rb-4.0.3&q=80&w=1080",
+            "featured_image_caption": "Photo by Andres Abogabir on Unsplash",
+            "read_time": "0 mins baca" 
+        },
+        {
+            "id": "c2ec58f2-a2f8-42b4-a41d-0d25875ad514",
+            "slug": "best-time-visit-indonesia-weather-seasons",
+            "title": "The Best Time to Visit Indonesia: A Guide to the Country's Weather and Seasons",
+            "summary": "Indonesia is a country with incredible natural beauty. However, the weather and seasons in Indonesia can affect your holiday experience there. By knowing the best time to visit Indonesia and checking the weather forecast, you can plan an optimal and personalized vacation according to your own preferences.",
+            "featured_image": "https://images.unsplash.com/photo-1646432581107-06cd4333cfde?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MjkwNzV8MHwxfHNlYXJjaHw3fHxmb3Jlc3QlMjBrYWxpbWFudGFufGVufDB8fHx8MTY4MzI2ODcxOA&ixlib=rb-4.0.3&q=80&w=1080",
+            "featured_image_caption": "Photo by Barkah Wibowo on Unsplash",
+            "read_time": "0 mins baca"
+        },
+        {
+            "id": "67b5e9d8-afc5-4f29-8b51-60b39a394f30",
+            "slug": "candi-borobodur-sunrise",
+            "title": "Witnessing the Majestic Borobudur Temple at Sunrise",
+            "summary": "Witnessing the majestic Borobudur Temple at sunrise is a must-do experience for any traveler visiting Indonesia. The temple's history, architecture, and spiritual significance make it a unique and unforgettable destination.",
+            "featured_image": "https://images.unsplash.com/photo-1592106574625-0a404da5fba3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MjkwNzV8MHwxfHNlYXJjaHw1fHxib3JvYnVkdXJ8ZW58MHx8fHwxNjgzMjU5MTIy&ixlib=rb-4.0.3&q=80&w=1080",
+            "featured_image_caption": "Photo by Elisabeth Morin on Unsplash",
+            "read_time": "0 mins baca"
+        },
+        {
+            "id": "76aac228-3bac-48bb-be94-f6bbae7ab8bf",
+            "slug": "phinisi-experience-bajo-komodo",
+            "title": "The Phinisi Experience in Labuan Bajo: Sailing the Waters of Komodo National Park",
+            "summary": "The phinisi experience in Labuan Bajo is a must-do for anyone visiting Indonesia. It's a unique way to explore the stunning beauty of the Komodo National Park and the surrounding islands.",
+            "featured_image": "https://images.unsplash.com/photo-1650445363412-275a423da839?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MjkwNzV8MHwxfHNlYXJjaHw1fHxwaGluaXNpfGVufDB8fHx8MTY4MTE4MzY0Ng&ixlib=rb-4.0.3&q=80&w=1080",
+            "featured_image_caption": "Photo by Johnny Africa on Unsplash",
+            "read_time": "0 mins baca"
+        },
+        {
+            "id": "396bfdf2-a6e5-46cf-9c27-5a501e0e6ebc",
+            "slug": "uncovering-hidden-gems-indonesia",
+            "title": "Uncovering the Hidden Gems of Indonesia's Lesser-Known Islands",
+            "summary": "Indonesia's lesser-known islands offer a wealth of hidden treasures and undiscovered beauty. From pristine beaches and clear waters to traditional cultures and historic sites, these islands have something for every traveler.",
+            "featured_image": "https://images.unsplash.com/photo-1555852441-ca0d327da1e5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=Mnw0MjkwNzV8MHwxfHNlYXJjaHwxOHx8aW5kb25lc2lhfGVufDB8fHx8MTY4MjQ4ODQyNw&ixlib=rb-4.0.3&q=80&w=1080",
+            "featured_image_caption": "Photo by Anggit Rizkianto on Unsplash",
+            "read_time": "0 mins baca"
+        }
+    ]
+} 
